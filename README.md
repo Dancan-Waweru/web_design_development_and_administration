@@ -1,38 +1,28 @@
-#Learning HTML
+# Learning HTML
 
-This project is a personal journey to learn and practice HTML (HyperText Markup Language) — the basic building block of all web pages.
+This project is a personal journey to learn and practice **HTML (HyperText Markup Language)** — the basic building block of all web pages.
 
-##🌱 Goal
+## 🌱 Goal
 
 To understand how web pages are structured and how to use HTML to organize and present content effectively.
 
-📚 ##What I’m Learning
+## 📚 What I’m Learning
 
-##The structure of an HTML document
+### The structure of an HTML document
+`<!DOCTYPE html>`, `<html>`, `<head>`, `<body>`
 
- (<!DOCTYPE html>, <html>, <head>, <body>)
+### Common tags
+- **Headings:** `<h1>` to `<h6>`
+- **Paragraphs:** `<p>`
+- **Links:** `<a>`
+- **Images:** `<img>`
+- **Lists:** `<ul>`, `<ol>`, `<li>`
+- **Tables:** `<table>`, `<tr>`, `<td>`
+- **Forms:** `<form>`, `<input>`, `<button>`
+- **Comments and spacing** for better readability
+- **Semantic tags:** `<header>`, `<footer>`, `<section>`, `<article>`
 
-Common tags like:
+## 🧠 Why HTML
 
-Headings (<h1> to <h6>)
-
-Paragraphs (<p>)
-
-Links (<a>)
-
-Images (<img>)
-
-Lists (<ul>, <ol>, <li>)
-
-Tables (<table>, <tr>, <td>)
-
-Forms (<form>, <input>, <button>)
-
-Adding comments and spacing for better readability
-
-How to make pages more meaningful using semantic tags (<header>, <footer>, <section>, <article>)
-
-##🧠 Why HTML
-
-Learning HTML is the first step toward becoming a web developer.
-It teaches how browsers read and display content — which makes it easier to later learn CSS, JavaScript, and frameworks.
+Learning HTML is the first step toward becoming a web developer.  
+It teaches how browsers read and display content — which makes it easier to later learn **CSS**, **JavaScript**, and frameworks.
